@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CarManager.Models
+namespace Car25.Models
 {
     public class Car
     {

@@ -1,5 +1,4 @@
-﻿using CarManager.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Car25.Models
 {
